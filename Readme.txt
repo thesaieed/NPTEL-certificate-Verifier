@@ -2,7 +2,11 @@ NPTEL Certificate Verifier is a Python based NPTEL Certificate verifier. It uses
 
 Program by : Saieed Shafi
 02-12-2022
+_______________________________________________________________________________________________________________
 
+Repository INFO:
+1. The main python program is a single file named 'NPTEL Certificate Verifier.py'
+2. The exe for windows is in a zip file in exe folder of repo. Same can b found in releases
 _______________________________________________________________________________________________________________
 
 Requirements:
