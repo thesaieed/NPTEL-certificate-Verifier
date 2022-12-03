@@ -1,8 +1,12 @@
-NPTEL Certificate Verifier is a Python based NPTEL Certificate verifier. It uses the QR Code of the uploaded image, and fetches the certificate from the official NPTEL archives. It then compares the two images and sorts them in two different folders - Genuine Certificates and Fake Certificates., according to the comparision between uploaded image by student and downloaded image from NPTEL. 
+NPTEL Certificate Verifier is a Python based NPTEL Certificate verifier. It uses the QR Code of the uploaded image, and fetches the certificate from the official NPTEL archives. It then compares the two images and sorts them in three different folders - Genuine Certificates, Fake Certificates and UnProcessed Images., according to the comparision between uploaded image by student and downloaded image from NPTEL. 
 
 Program by : Saieed Shafi
 02-12-2022
+_______________________________________________________________________________________________________________
 
+Repository INFO:
+1. The main python program is a single file named 'NPTEL Certificate Verifier.py'
+2. The exe for windows is in a zip file in exe folder of repo. Same can b found in releases
 _______________________________________________________________________________________________________________
 
 Requirements:
@@ -21,7 +25,7 @@ ________________________________________________________________________________
 
 OUTPUT:
 
-You will see output in the two newly created folders : Genuine Certificates and Fake Certificates. 
+You will see output in the three newly created folders : Genuine Certificates, Fake Certificates and UnProcessed 
 
 
 NOTE: The program may seem to be NOT RESPONDING, but if you see "temp.jpg" image in the same folder as the program, it means the program is working. it takes about 1-2 seconds/image to process. Please wait accordingly and do not close the program window. 
