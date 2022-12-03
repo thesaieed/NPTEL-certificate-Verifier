@@ -54,7 +54,6 @@ def verify():
         img = cv2.imread(image) #read the image
         x=decode(img)
         if not x: #if qrcode is not read
-            print("UNPROCESS")
             cv2.imwrite('UnProcessed/Certificate{j}.jpg'.format(j=i), img)
         else:
             for code in x:
