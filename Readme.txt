@@ -4,7 +4,8 @@ Program by : Saieed Shafi
 02-12-2022
 _______________________________________________________________________________________________________________
 Version 2.0
-Improved GUI using CustomTkinter Library
+- Improved GUI using CustomTkinter Library
+- Added progress showing message
 _______________________________________________________________________________________________________________
 
 Repository INFO:
