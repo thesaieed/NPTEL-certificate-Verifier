@@ -1,4 +1,4 @@
-NPTEL Certificate Verifier is a Python based NPTEL Certificate verifier. It uses the QR Code of the uploaded image, and fetches the certificate from the official NPTEL archives. It then compares the two images and sorts them in three different folders - Genuine Certificates, Fake Certificates and UnProcessed Images., according to the comparision between uploaded image by student and downloaded image from NPTEL. 
+NPTEL Certificate Verifier is a Python based NPTEL Certificate verifier. It uses the QR Code of the uploaded image, and fetches the certificate from the official NPTEL archives. It then compares the two images and sorts them in three different folders - Genuine Certificates, Fake Certificates and UnProcessed Images., according to the comparison between uploaded image by student and downloaded image from NPTEL. 
 
 Program by : Saieed Shafi
 02-12-2022
